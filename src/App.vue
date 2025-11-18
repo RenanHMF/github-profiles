@@ -88,6 +88,7 @@
             </div>
     </div>
   </div>
+    Powered by: RenanHMF
 </template>
 
 <style scoped>
