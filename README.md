@@ -1,5 +1,8 @@
 # github-profiles
 
+Oi, eu sou o Renan!! Que bom ter você por aqui! <br/>
+Estou utilizando esse projeto para estudar sobre Vue e melhorar minhas habilidades CSS.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
